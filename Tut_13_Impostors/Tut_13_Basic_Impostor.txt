@@ -1,1 +1,0 @@
-obj/Release/Tut_13_Basic_Impostor/BasicImpostor.cpp.o   

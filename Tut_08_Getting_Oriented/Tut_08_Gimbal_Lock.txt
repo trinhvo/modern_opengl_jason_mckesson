@@ -1,1 +1,0 @@
-obj/Release/Tut_08_Gimbal_Lock/GimbalLock.cpp.o   

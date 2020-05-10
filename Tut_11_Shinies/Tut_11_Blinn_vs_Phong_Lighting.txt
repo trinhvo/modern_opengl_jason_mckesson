@@ -1,1 +1,0 @@
-obj/Release/Tut_11_Blinn_vs_Phong_Lighting/BlinnvsPhongLighting.cpp.o   

@@ -1,1 +1,0 @@
-obj/Release/Tut_07_World_With_UBO/WorldWithUBO.cpp.o   

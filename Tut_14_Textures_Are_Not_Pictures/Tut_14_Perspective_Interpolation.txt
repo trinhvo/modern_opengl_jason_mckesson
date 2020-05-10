@@ -1,1 +1,0 @@
-obj/Release/Tut_14_Perspective_Interpolation/PerspectiveInterpolation.cpp.o   

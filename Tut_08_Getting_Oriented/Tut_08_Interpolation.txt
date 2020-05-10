@@ -1,1 +1,0 @@
-obj/Release/Tut_08_Interpolation/Interpolation.cpp.o   

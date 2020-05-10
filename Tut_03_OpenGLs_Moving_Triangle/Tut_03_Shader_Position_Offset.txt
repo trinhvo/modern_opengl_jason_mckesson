@@ -1,1 +1,0 @@
-obj/Release/Tut_03_Shader_Position_Offset/vertPositionOffset.cpp.o   

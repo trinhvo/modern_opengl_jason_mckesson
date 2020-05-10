@@ -1,1 +1,0 @@
-obj/Release/Tut_17_Cube_Point_Light/CubePointLight.cpp.o   

@@ -1,1 +1,0 @@
-obj/Release/Tut_06_Rotations/Rotations.cpp.o   

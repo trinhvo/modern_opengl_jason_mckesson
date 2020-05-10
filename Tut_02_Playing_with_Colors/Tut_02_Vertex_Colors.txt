@@ -1,1 +1,0 @@
-obj/Release/Tut_02_Vertex_Colors/VertexColors.cpp.o   

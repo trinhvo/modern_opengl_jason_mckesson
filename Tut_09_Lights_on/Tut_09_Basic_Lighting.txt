@@ -1,1 +1,0 @@
-obj/Release/Tut_09_Basic_Lighting/BasicLighting.cpp.o   

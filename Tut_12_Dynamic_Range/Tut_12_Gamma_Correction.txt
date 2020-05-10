@@ -1,1 +1,0 @@
-obj/Release/Tut_12_Gamma_Correction/Lights.cpp.o obj/Release/Tut_12_Gamma_Correction/GammaCorrection.cpp.o obj/Release/Tut_12_Gamma_Correction/Scene.cpp.o   

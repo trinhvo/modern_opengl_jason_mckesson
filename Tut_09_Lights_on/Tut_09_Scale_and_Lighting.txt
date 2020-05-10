@@ -1,1 +1,0 @@
-obj/Release/Tut_09_Scale_and_Lighting/ScaleandLighting.cpp.o   

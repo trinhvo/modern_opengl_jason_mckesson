@@ -1,1 +1,0 @@
-obj/Release/Tut_16_Gamma_Landscape/GammaLandscape.cpp.o obj/Release/Tut_16_Gamma_Landscape/LightEnv.cpp.o   

@@ -1,1 +1,0 @@
-obj/Release/Tut_08_Camera_Relative/CameraRelative.cpp.o   

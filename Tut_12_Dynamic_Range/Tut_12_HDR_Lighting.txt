@@ -1,1 +1,0 @@
-obj/Release/Tut_12_HDR_Lighting/Lights.cpp.o obj/Release/Tut_12_HDR_Lighting/HDRLighting.cpp.o obj/Release/Tut_12_HDR_Lighting/Scene.cpp.o   

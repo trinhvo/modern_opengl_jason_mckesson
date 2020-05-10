@@ -1,1 +1,0 @@
-obj/Release/Tut_07_World_Scene/WorldScene.cpp.o   

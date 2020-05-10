@@ -1,1 +1,0 @@
-lib/Release/Scene.cpp.o lib/Release/framework.cpp.o lib/Release/Mesh.cpp.o lib/Release/Timer.cpp.o   

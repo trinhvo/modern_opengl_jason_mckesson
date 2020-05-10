@@ -1,1 +1,0 @@
-obj/Release/Tut_10_Fragment_Attenuation/FragmentAttenuation.cpp.o   
