@@ -1,0 +1,1 @@
+obj/Release/Tut_13_Geometry_Impostor/GeomImpostor.cpp.o   

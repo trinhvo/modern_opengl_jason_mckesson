@@ -1,0 +1,1 @@
+obj/Release/Tut_08_Quaternion_YPR/QuaternionYPR.cpp.o   

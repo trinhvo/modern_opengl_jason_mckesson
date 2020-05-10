@@ -1,0 +1,1 @@
+obj/Release/Tut_12_Scene_Lighting/Lights.cpp.o obj/Release/Tut_12_Scene_Lighting/Scene.cpp.o obj/Release/Tut_12_Scene_Lighting/SceneLighting.cpp.o   

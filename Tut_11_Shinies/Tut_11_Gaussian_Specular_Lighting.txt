@@ -1,0 +1,1 @@
+obj/Release/Tut_11_Gaussian_Specular_Lighting/GaussianSpecularLighting.cpp.o   

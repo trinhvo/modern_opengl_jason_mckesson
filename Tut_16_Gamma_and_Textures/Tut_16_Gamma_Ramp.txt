@@ -1,0 +1,1 @@
+obj/Release/Tut_16_Gamma_Ramp/GammaRamp.cpp.o   

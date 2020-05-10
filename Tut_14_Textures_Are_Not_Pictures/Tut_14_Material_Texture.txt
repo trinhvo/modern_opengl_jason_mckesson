@@ -1,0 +1,1 @@
+obj/Release/Tut_14_Material_Texture/MaterialTexture.cpp.o   

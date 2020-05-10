@@ -1,0 +1,1 @@
+obj/Release/Tut_17_Double_Projection/DoubleProjection.cpp.o   

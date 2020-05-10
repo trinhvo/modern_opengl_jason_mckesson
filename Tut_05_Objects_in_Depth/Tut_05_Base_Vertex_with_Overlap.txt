@@ -1,0 +1,1 @@
+obj/Release/Tut_05_Base_Vertex_with_Overlap/BaseVertexOverlap.cpp.o   

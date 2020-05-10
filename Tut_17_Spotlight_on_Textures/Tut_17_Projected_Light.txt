@@ -1,0 +1,1 @@
+obj/Release/Tut_17_Projected_Light/ProjectedLight.cpp.o   
